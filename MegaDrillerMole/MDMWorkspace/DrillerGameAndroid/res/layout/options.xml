@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:orientation="vertical"
+    
+    android:padding="6dip">
+    
+    <ImageView
+        android:id="@+id/imgSplash"
+        
+        android:layout_width="fill_parent"
+        android:layout_height="0px"
+		android:layout_weight="4"
+        
+        android:src="@drawable/splashim" >
+		
+	</ImageView>
+	
+	<!-- Buttons and options -->
+	<LinearLayout
+        android:orientation="horizontal"
+    
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+		android:layout_weight="1">
+
+	    <!-- Clear scores -->
+	    <Button
+			android:id="@+id/btnClear"
+            android:layout_width="0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+                    
+            android:gravity="center"
+            android:text="Clear Scores" />
+	    
+		<!-- Toggle particles -->
+		<LinearLayout
+			android:orientation="vertical"
+			
+			android:layout_width="0dip"
+			android:layout_height="fill_parent"
+			android:layout_weight="1">
+			
+			<TextView
+				android:layout_width="fill_parent"
+				android:layout_height="0dp"
+				android:layout_weight="1"
+				android:gravity="center"
+				android:text="Particles" />
+
+			
+			<ToggleButton
+				android:id="@+id/togParticles"
+				android:layout_width="fill_parent"
+				android:layout_height="0dp"
+				android:layout_weight="1"
+				android:gravity="center"/>
+			
+		</LinearLayout>
+		
+		<!-- Toggle audio -->
+		<LinearLayout
+			android:orientation="vertical"
+			
+			android:layout_width="0dip"
+			android:layout_height="fill_parent"
+			android:layout_weight="1">
+			
+			<TextView
+				android:layout_width="fill_parent"
+				android:layout_height="0dp"
+				android:layout_weight="1"
+				android:gravity="center"
+				android:text="Sfx" />
+
+			
+			<ToggleButton
+				android:id="@+id/togSfx"
+				android:layout_width="fill_parent"
+				android:layout_height="0dp"
+				android:layout_weight="1"
+				android:gravity="center"/>
+			
+		</LinearLayout>
+		
+		<LinearLayout
+			android:orientation="vertical"
+			
+			android:layout_width="0dip"
+			android:layout_height="fill_parent"
+			android:layout_weight="1">
+			
+			<TextView
+				android:layout_width="fill_parent"
+				android:layout_height="0dp"
+				android:layout_weight="1"
+				android:gravity="center"
+				android:text="Music" />
+
+			
+			<ToggleButton
+				android:id="@+id/togMusic"
+				android:layout_width="fill_parent"
+				android:layout_height="0dp"
+				android:layout_weight="1"
+				android:gravity="center"/>
+			
+		</LinearLayout>
+		
+		<Button
+			android:id="@+id/btnBack"
+            android:layout_width="0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+                    
+            android:gravity="center"
+            android:text="Back" />
+            
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,649 @@
+
+game1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dirt01
+  rotate: false
+  xy: 2, 2
+  size: 92, 720
+  orig: 92, 720
+  offset: 0, 0
+  index: -1
+titleImage
+  rotate: false
+  xy: 96, 2
+  size: 289, 360
+  orig: 289, 360
+  offset: 0, 0
+  index: -1
+sky01
+  rotate: false
+  xy: 387, 2
+  size: 92, 320
+  orig: 92, 320
+  offset: 0, 0
+  index: -1
+OSP-DIN-OUTLINED
+  rotate: false
+  xy: 481, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bedrock01
+  rotate: false
+  xy: 2, 724
+  size: 92, 240
+  orig: 92, 240
+  offset: 0, 0
+  index: -1
+buttonOboverlay
+  rotate: false
+  xy: 739, 2
+  size: 200, 152
+  orig: 200, 152
+  offset: 0, 0
+  index: -1
+buttonObo
+  rotate: false
+  xy: 739, 156
+  size: 200, 152
+  orig: 200, 152
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 96, 364
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+dirtsplash
+  rotate: false
+  xy: 96, 494
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dirtenter
+  rotate: false
+  xy: 96, 624
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+aura
+  rotate: false
+  xy: 96, 754
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+demonCatSpawn
+  rotate: false
+  xy: 354, 364
+  size: 448, 96
+  orig: 448, 96
+  offset: 0, 0
+  index: -1
+demonCatDeath
+  rotate: false
+  xy: 354, 462
+  size: 448, 96
+  orig: 448, 96
+  offset: 0, 0
+  index: -1
+demonCatAttack
+  rotate: false
+  xy: 354, 560
+  size: 320, 96
+  orig: 320, 96
+  offset: 0, 0
+  index: -1
+demonCatIdle
+  rotate: false
+  xy: 481, 260
+  size: 256, 96
+  orig: 256, 96
+  offset: 0, 0
+  index: -1
+alertBubble01
+  rotate: false
+  xy: 226, 494
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+clickme
+  rotate: false
+  xy: 226, 624
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+trainDrive
+  rotate: false
+  xy: 354, 658
+  size: 512, 64
+  orig: 512, 64
+  offset: 0, 0
+  index: -1
+playerForwardRed
+  rotate: false
+  xy: 354, 724
+  size: 384, 64
+  orig: 384, 64
+  offset: 0, 0
+  index: -1
+playerForwardGold
+  rotate: false
+  xy: 354, 790
+  size: 384, 64
+  orig: 384, 64
+  offset: 0, 0
+  index: -1
+playerForwardFeather
+  rotate: false
+  xy: 354, 856
+  size: 384, 64
+  orig: 384, 64
+  offset: 0, 0
+  index: -1
+playerForward
+  rotate: false
+  xy: 354, 922
+  size: 384, 64
+  orig: 384, 64
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 96, 884
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+spanneroverlay
+  rotate: false
+  xy: 941, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+spanner
+  rotate: false
+  xy: 941, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+playerLife
+  rotate: false
+  xy: 941, 156
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+playerDeath
+  rotate: false
+  xy: 941, 222
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+playerAirRed
+  rotate: false
+  xy: 941, 288
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+playerAirGold
+  rotate: false
+  xy: 226, 754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+playerAirFeather
+  rotate: false
+  xy: 96, 950
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+playerAir
+  rotate: false
+  xy: 226, 884
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+mildlydispleasedstar
+  rotate: false
+  xy: 226, 950
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bubbleIcon
+  rotate: false
+  xy: 804, 364
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 870, 364
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+font
+  rotate: false
+  xy: 2, 966
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+mountain01
+  rotate: false
+  xy: 739, 310
+  size: 182, 45
+  orig: 182, 45
+  offset: 0, 0
+  index: -1
+button01overlay
+  rotate: false
+  xy: 804, 462
+  size: 160, 45
+  orig: 160, 45
+  offset: 0, 0
+  index: -1
+button01
+  rotate: false
+  xy: 804, 509
+  size: 160, 45
+  orig: 160, 45
+  offset: 0, 0
+  index: -1
+freesfx
+  rotate: false
+  xy: 676, 560
+  size: 150, 40
+  orig: 150, 40
+  offset: 0, 0
+  index: -1
+wormhead
+  rotate: false
+  xy: 226, 701
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+twitterIcon
+  rotate: false
+  xy: 268, 701
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+facebookIcon
+  rotate: false
+  xy: 310, 701
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+drillerCoin
+  rotate: false
+  xy: 292, 754
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+plane
+  rotate: false
+  xy: 676, 602
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+hotrock
+  rotate: false
+  xy: 226, 820
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 387, 324
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+wormsegment
+  rotate: false
+  xy: 162, 950
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+worldwind
+  rotate: false
+  xy: 162, 984
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+testMine
+  rotate: false
+  xy: 292, 884
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+testGem2
+  rotate: false
+  xy: 292, 950
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+testGem
+  rotate: false
+  xy: 292, 984
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 936, 364
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particleFire01
+  rotate: false
+  xy: 970, 364
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particleExplode04
+  rotate: false
+  xy: 936, 398
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particleExplode03
+  rotate: false
+  xy: 970, 398
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particleExplode02
+  rotate: false
+  xy: 966, 462
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particleExplode01
+  rotate: false
+  xy: 966, 496
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particleExmoke01
+  rotate: false
+  xy: 828, 560
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+noSprite
+  rotate: false
+  xy: 828, 594
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mineralSilver
+  rotate: false
+  xy: 862, 560
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mineralGold
+  rotate: false
+  xy: 862, 594
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mineralDiamond
+  rotate: false
+  xy: 896, 560
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mineralCrystalline
+  rotate: false
+  xy: 896, 594
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mineralCopper
+  rotate: false
+  xy: 930, 560
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mineralAmethyst
+  rotate: false
+  xy: 964, 560
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mine01
+  rotate: false
+  xy: 930, 594
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+demonCatBreath
+  rotate: false
+  xy: 964, 594
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 868, 658
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+libgdx
+  rotate: false
+  xy: 354, 988
+  size: 187, 31
+  orig: 187, 31
+  offset: 0, 0
+  index: -1
+buttonArrowUpoverlay
+  rotate: false
+  xy: 226, 592
+  size: 96, 18
+  orig: 96, 18
+  offset: 0, 0
+  index: -1
+buttonArrowUp
+  rotate: false
+  xy: 226, 854
+  size: 96, 18
+  orig: 96, 18
+  offset: 0, 0
+  index: -1
+buttonArrowDownoverlay
+  rotate: false
+  xy: 676, 636
+  size: 96, 18
+  orig: 96, 18
+  offset: 0, 0
+  index: -1
+buttonArrowDown
+  rotate: false
+  xy: 902, 658
+  size: 96, 18
+  orig: 96, 18
+  offset: 0, 0
+  index: -1
+dirtpedo
+  rotate: false
+  xy: 543, 988
+  size: 192, 16
+  orig: 192, 16
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 76, 966
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 76, 984
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 76, 1002
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+spark3
+  rotate: false
+  xy: 453, 324
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+spark2
+  rotate: false
+  xy: 453, 342
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+spark1
+  rotate: false
+  xy: 941, 134
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particleEmber04
+  rotate: false
+  xy: 959, 134
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particleEmber03
+  rotate: false
+  xy: 977, 134
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particleEmber02
+  rotate: false
+  xy: 995, 134
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particleEmber01
+  rotate: false
+  xy: 923, 310
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flesh3
+  rotate: false
+  xy: 923, 328
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flesh2
+  rotate: false
+  xy: 923, 346
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flesh1
+  rotate: false
+  xy: 324, 494
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+copyright
+  rotate: false
+  xy: 324, 512
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dirtparticle2
+  rotate: false
+  xy: 471, 324
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+dirtparticle1
+  rotate: false
+  xy: 471, 332
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+transparent
+  rotate: false
+  xy: 2, 1021
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+singleWhitePixel
+  rotate: false
+  xy: 5, 1021
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

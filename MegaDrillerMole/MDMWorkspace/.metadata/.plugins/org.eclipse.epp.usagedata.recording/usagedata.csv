@@ -1,0 +1,93 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.android.ide.eclipse.traceview,15.0.1.v201111031820-219398,"com.android.ide.eclipse.traceview",1393554666262
+started,bundle,com.collabnet.subversion.merge,3.0.5,"com.collabnet.subversion.merge",1393554666263
+started,bundle,org.eclipse.mylyn.tasks.ui,3.6.4.v20111117-0100,"org.eclipse.mylyn.tasks.ui",1393554666264
+started,bundle,org.tigris.subversion.clientadapter,1.8.0,"org.tigris.subversion.clientadapter",1393554666264
+started,bundle,org.tigris.subversion.subclipse.core,1.8.4,"org.tigris.subversion.subclipse.core",1393554666265
+started,bundle,org.tigris.subversion.subclipse.mylyn,3.0.0,"org.tigris.subversion.subclipse.mylyn",1393554666265
+started,bundle,org.tigris.subversion.subclipse.tools.usage,1.1.0,"org.tigris.subversion.subclipse.tools.usage",1393554666265
+started,bundle,org.tigris.subversion.subclipse.ui,1.8.4,"org.tigris.subversion.subclipse.ui",1393554666267
+os,sysinfo,,,"win32",1393554666270
+arch,sysinfo,,,"x86_64",1393554666270
+ws,sysinfo,,,"win32",1393554666270
+locale,sysinfo,,,"en_GB",1393554666270
+processors,sysinfo,,,"4",1393554666270
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1393554666270
+java.runtime.version,sysinfo,,,"1.7.0_05-b06",1393554666270
+java.specification.name,sysinfo,,,"Java Platform API Specification",1393554666270
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1393554666270
+java.specification.version,sysinfo,,,"1.7",1393554666270
+java.vendor,sysinfo,,,"Oracle Corporation",1393554666270
+java.version,sysinfo,,,"1.7.0_05",1393554666270
+java.vm.info,sysinfo,,,"mixed mode",1393554666270
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1393554666270
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1393554666270
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1393554666270
+java.vm.specification.version,sysinfo,,,"1.7",1393554666270
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1393554666270
+java.vm.version,sysinfo,,,"23.1-b03",1393554666270
+started,bundle,org.eclipse.m2e.usagedata,1.0.100.20110804-1717,"org.eclipse.m2e.usagedata",1393554666279
+started,bundle,org.eclipse.core.filesystem,1.3.100.v20110423-0524,"org.eclipse.core.filesystem",1393554666287
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.201.r371_v20110824-0800,"org.eclipse.ltk.core.refactoring",1393554666289
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring",1393554666291
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1393554667915
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1393554671033
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.edit.text.openLocalFile",1393554672105
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1393554675716
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1393554678698
+closed,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1393554678934
+stopped,bundle,org.eclipse.m2e.logback.configuration,1.0.100.20110804-1717,"org.eclipse.m2e.logback.configuration",1393554679206
+stopped,bundle,org.eclipse.m2e.discovery,1.0.100.20110804-1717,"org.eclipse.m2e.discovery",1393554679208
+stopped,bundle,org.eclipse.m2e.refactoring,1.0.100.20110804-1717,"org.eclipse.m2e.refactoring",1393554679208
+stopped,bundle,org.eclipse.m2e.editor,1.0.100.20110804-1717,"org.eclipse.m2e.editor",1393554679209
+stopped,bundle,org.eclipse.m2e.editor.xml,1.0.100.20110804-1717,"org.eclipse.m2e.editor.xml",1393554679210
+stopped,bundle,org.eclipse.m2e.jdt,1.0.100.20110804-1717,"org.eclipse.m2e.jdt",1393554679211
+stopped,bundle,org.eclipse.m2e.launching,1.0.100.20110804-1717,"org.eclipse.m2e.launching",1393554679211
+stopped,bundle,org.eclipse.m2e.usagedata,1.0.100.20110804-1717,"org.eclipse.m2e.usagedata",1393554679211
+stopped,bundle,overlay.com.android.ide.eclipse.adt.overlay,15.0.1.v201111031820-219398,"overlay.com.android.ide.eclipse.adt.overlay",1393554679212
+stopped,bundle,com.android.ide.eclipse.adt,15.0.1.v201111031820-219398,"com.android.ide.eclipse.adt",1393554679212
+stopped,bundle,org.eclipse.ui.cheatsheets,3.4.100.v20110425,"org.eclipse.ui.cheatsheets",1393554679212
+stopped,bundle,org.eclipse.help.ui,3.5.101.r37_20110819,"org.eclipse.help.ui",1393554679213
+stopped,bundle,org.eclipse.help.webapp,3.6.0.v20110518,"org.eclipse.help.webapp",1393554679214
+stopped,bundle,org.eclipse.epp.mpc.ui,1.1.1.I20110907-0947,"org.eclipse.epp.mpc.ui",1393554679214
+stopped,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201106061540,"org.eclipse.epp.usagedata.ui",1393554679215
+stopped,bundle,org.eclipse.ui.intro.universal,3.2.500.v20110510,"org.eclipse.ui.intro.universal",1393554679215
+stopped,bundle,org.eclipse.ui.intro,3.4.100.v20110425,"org.eclipse.ui.intro",1393554679216
+stopped,bundle,org.eclipse.help.base,3.6.1.v201109091335,"org.eclipse.help.base",1393554679217
+stopped,bundle,org.eclipse.equinox.http.jetty,2.0.100.v20110502,"org.eclipse.equinox.http.jetty",1393554679217
+stopped,bundle,org.eclipse.m2e.core.ui,1.0.100.20110804-1717,"org.eclipse.m2e.core.ui",1393554679218
+stopped,bundle,org.eclipse.m2e.core,1.0.100.20110804-1717,"org.eclipse.m2e.core",1393554679219
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ant",1393554679220
+stopped,bundle,org.eclipse.ant.ui,3.5.100.v20110510,"org.eclipse.ant.ui",1393554679220
+stopped,bundle,org.eclipse.ant.launching,1.0.100.v20110506,"org.eclipse.ant.launching",1393554679221
+stopped,bundle,org.eclipse.compare.win32,1.0.200.I20110510-0800,"org.eclipse.compare.win32",1393554679222
+stopped,bundle,org.eclipse.egit.mylyn.ui,1.1.0.201109151100-r,"org.eclipse.egit.mylyn.ui",1393554679222
+stopped,bundle,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui",1393554679224
+stopped,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110502-1955,"org.eclipse.equinox.p2.ui.sdk",1393554679224
+stopped,bundle,org.eclipse.mylyn.java.tasks,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.tasks",1393554679225
+stopped,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1393554679226
+stopped,bundle,org.eclipse.jdt.junit,3.7.0.v20110505-0800,"org.eclipse.jdt.junit",1393554679226
+stopped,bundle,org.eclipse.jdt.apt.ui,3.3.300.v20110305-1450,"org.eclipse.jdt.apt.ui",1393554679227
+stopped,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20110803_r371,"org.eclipse.jdt.debug.ui",1393554679228
+stopped,bundle,org.eclipse.wb.swing.databinding,1.1.0.r37x201109091143,"org.eclipse.wb.swing.databinding",1393554679229
+stopped,bundle,org.eclipse.wb.core.databinding,1.1.0.r37x201109091012,"org.eclipse.wb.core.databinding",1393554679229
+stopped,bundle,org.eclipse.wb.swing.FormLayout,1.1.0.r37x201109091143,"org.eclipse.wb.swing.FormLayout",1393554679230
+stopped,bundle,org.eclipse.wb.swing.MigLayout,1.1.0.r37x201109091143,"org.eclipse.wb.swing.MigLayout",1393554679231
+stopped,bundle,org.eclipse.wb.swing.java6,1.1.0.r37x201109091143,"org.eclipse.wb.swing.java6",1393554679231
+stopped,bundle,org.eclipse.wb.swing.jsr296,1.1.0.r37x201109091143,"org.eclipse.wb.swing.jsr296",1393554679232
+stopped,bundle,org.eclipse.wb.swing,1.1.0.r37x201109091143,"org.eclipse.wb.swing",1393554679233
+stopped,bundle,org.eclipse.wb.core.ui,1.1.0.r37x201109091028,"org.eclipse.wb.core.ui",1393554679233
+stopped,bundle,org.eclipse.wb.layout.group,1.1.0.r37x201109091112,"org.eclipse.wb.layout.group",1393554679234
+stopped,bundle,org.eclipse.wb.os.win32,1.1.0.r37x201109091012,"org.eclipse.wb.os.win32",1393554679234
+stopped,bundle,org.eclipse.wb.core,1.1.0.r37x201109091012,"org.eclipse.wb.core",1393554679236
+stopped,bundle,com.android.ide.eclipse.traceview,15.0.1.v201111031820-219398,"com.android.ide.eclipse.traceview",1393554679243
+stopped,bundle,com.collabnet.subversion.merge,3.0.5,"com.collabnet.subversion.merge",1393554679247
+stopped,bundle,org.tigris.subversion.subclipse.graph,1.1.1,"org.tigris.subversion.subclipse.graph",1393554679247
+stopped,bundle,org.tigris.subversion.subclipse.mylyn,3.0.0,"org.tigris.subversion.subclipse.mylyn",1393554679254
+stopped,bundle,org.tigris.subversion.subclipse.tools.usage,1.1.0,"org.tigris.subversion.subclipse.tools.usage",1393554679267
+stopped,bundle,org.tigris.subversion.subclipse.ui,1.8.4,"org.tigris.subversion.subclipse.ui",1393554679269
+stopped,bundle,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui",1393554679275
+stopped,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1393554679276
+stopped,bundle,org.eclipse.wst.xsd.ui,1.2.404.v201105050216,"org.eclipse.wst.xsd.ui",1393554679279
+stopped,bundle,org.eclipse.wst.xml.ui,1.1.201.v201108151912,"org.eclipse.wst.xml.ui",1393554679280
+stopped,bundle,org.eclipse.wst.common.ui,1.1.500.v200911190730,"org.eclipse.wst.common.ui",1393554679281
